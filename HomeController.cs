@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,8 +10,7 @@ namespace LoginPage.Controllers
     {
         public ActionResult Index()
         {
-            int i;
-            return View();
+             return View();
         }
 
         public ActionResult About()
