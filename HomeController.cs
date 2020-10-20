@@ -10,6 +10,7 @@ namespace LoginPage.Controllers
     {
         public ActionResult Index()
         {
+            int i;
             return View();
         }
 
